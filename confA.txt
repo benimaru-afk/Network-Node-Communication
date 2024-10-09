@@ -1,0 +1,3 @@
+5000
+This is a sample data from Node A.
+The next lecture after the due date of project 1 is Oct-1st.

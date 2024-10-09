@@ -1,0 +1,14 @@
+Benjamin Mannal - Project 1 - List of Known Bugs
+
++--------------------------------------------------+--------------------------------------------------+
+| Bugs/Common Issues                               | Status/Description                               |
++--------------------------------------------------+--------------------------------------------------+
+| Bug 1: Windows Terminal                          | Makefile wont compile in Windows terminal.       |
+|                                                  | NOTE: This is not really a bug but a possible    |
+|                                                  | oversight if compiled in the incorrect terminal  |
++--------------------------------------------------+--------------------------------------------------+
+| Bug 2:                                           |                                                  |
+| Bug 3:                                           |                                                  |
+| Bug 4:                                           |                                                  |
+| Bug 5:                                           |                                                  |
++--------------------------------------------------+--------------------------------------------------+

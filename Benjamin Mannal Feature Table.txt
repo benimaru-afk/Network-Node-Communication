@@ -1,0 +1,15 @@
+Benjamin Mannal - Project 1 - Feature Table
+
++----------------------------------------------------------+----------------------------+
+| Feature                                                  | Status/Description          |
++----------------------------------------------------------+----------------------------+
+| The project code has appropriate comments.               |      Complete              |
+| The project compiles and builds without errors.          |      Complete              |
+| The program starts.                                      |      Complete              |
+| Creates and runs all the threads or processes.           |      Complete              |
+| Loads the configuration files.                           |      Complete              |
+| Sends data through sockets.                              |      Complete              |
+| Receives data through sockets.                           |      Complete              |
+| Prints out received data.                                |      Complete              |
+| The program exits after sending/receiving data.          |      Complete              |
++----------------------------------------------------------+----------------------------+
